@@ -24,3 +24,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,html,css,js,mongodb,discord,visualstudio,vscode" />
 </p>
+
+---
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elwingcute&theme=tokyonight" />
