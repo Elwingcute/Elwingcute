@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 I'm Emir Can Aktaş</h1>
 
-<!--
-**Elwingcute/Elwingcute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7F3ACE&center=true&vCenter=true&width=440&lines=16+y%2Fo+Software+Developer;Web+Developer;Currently+Learning+Python;Always+building+stuff" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Elwingcute&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🎂 **16 years old**
+- 🌍 Born in **Çanakkale, Turkey**
+- 📍 Living in **Almaty, Kazakhstan**
+- 💻 **Software & Website Developer**
+- 📚 **Currently learning Python**
+
+---
+
+### 🛠️ Technologies I Use
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,html,css,js,mongodb,discord,visualstudio,vscode" />
+</p>
+
+---
