@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Emir Can Aktaş</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7F3ACE&center=true&vCenter=true&width=440&lines=16+y%2Fo+Software+Developer;Web+Developer;Currently+Learning+Python;Always+building+stuff" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7F3ACE&center=true&vCenter=true&width=440&lines=16+y%2Fo+Software+Developer;Web+Developer;Always+building+stuff" />
 </p>
 
 <p align="center">
@@ -16,7 +16,6 @@
 - 🌍 Born in **Çanakkale, Turkey**
 - 📍 Living in **Almaty, Kazakhstan**
 - 💻 **Software & Website Developer**
-- 📚 **Currently learning Python**
 
 ---
 
@@ -25,5 +24,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,html,css,js,mongodb,discord,visualstudio,vscode" />
 </p>
-
----
