@@ -15,7 +15,7 @@
 - 🎂 **16 years old**
 - 🌍 Born in **Çanakkale, Turkey**
 - 📍 Living in **Almaty, Kazakhstan**
-- 💻 **Software & Website Developer**
+- 💻 **Software & Full-Stack Developer**
 - **memory manipulation / reverse engineering**
 - **+2 years experienced on hacking games**
 
