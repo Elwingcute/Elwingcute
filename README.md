@@ -16,6 +16,8 @@
 - 🌍 Born in **Çanakkale, Turkey**
 - 📍 Living in **Almaty, Kazakhstan**
 - 💻 **Software & Website Developer**
+- **memory manipulation / reverse engineering**
+- **+2 years experienced on hacking games**
 
 ---
 
